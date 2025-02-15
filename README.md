@@ -47,7 +47,9 @@ Materialize - A CSS framework to get Google's Material Design components.
 
 Typed.js - JavaScript Library
 
-## Contributing 💡
+## Contributing 💡🤝
+Contributions are welcome! Feel free to fork this repository and submit pull requests.  
+
 Step 1:
 
 Option 1
@@ -61,3 +63,13 @@ Option 2
 Step 2: Build your code 🔨🔨🔨
 
 Step 3: 🔃 Create a new pull request.
+
+## 📬 Contact  
+Feel free to reach out to me:  
+📧 Email: sumankrsinha14@gmail.com  
+🔗 Portfolio: COMING SOON!!!
+💼 LinkedIn: https://linkedin.com/in/suman-kumar16
+
+
+## License 📄
+This project is licensed under the MIT License.
