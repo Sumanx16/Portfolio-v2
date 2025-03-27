@@ -13,7 +13,8 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/Sumanx16/Portfolio-v2" target="_blank"><img src="examples/preview.gif">
+    <a href="https://github.com/Sumanx16/Portfolio-v2" target="_blank"><img src="mobile.png">
+      <a href="https://github.com/Sumanx16/Portfolio-v2" target="_blank"><img src="desktop.png">
   </a>
   </kbd>
 </p>
